@@ -1,0 +1,11 @@
+certifi==2025.6.15
+charset-normalizer==3.4.2
+fuzzywuzzy==0.18.0
+idna==3.10
+pyaes==1.6.1
+Pyrogram==2.0.106
+PySocks==1.7.1
+python-decouple==3.8
+pytz==2025.2
+requests==2.32.4
+urllib3==2.5.0
